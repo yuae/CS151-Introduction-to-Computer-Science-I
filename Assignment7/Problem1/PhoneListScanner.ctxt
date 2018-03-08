@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=PhoneListScanner(java.lang.String)
+comment1.params=c_name
+comment1.target=java.lang.String\ queryByName(char)
+comment2.params=area
+comment2.target=java.lang.String\ queryByArea(java.lang.String)
+comment3.params=number
+comment3.target=java.lang.String\ queryByPhone(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
